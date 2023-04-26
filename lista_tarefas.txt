@@ -9,3 +9,4 @@ MINHA LISTA DE TAREFAS
 7. Praticar programação
 8. Nova tarefa
 9. Nova tarefa
+10. Nova tarefa
